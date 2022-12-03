@@ -1,0 +1,15 @@
+
+.cards{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 200px;
+}
+
+.card{
+    color:aqua;
+    border: solid aqua;
+    width:30em;
+    height:auto;
+    text-align: center;
+}
+

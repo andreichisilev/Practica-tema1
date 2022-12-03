@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    background-color: purple;
+    color: whitesmoke;
+    width:98vw;
+    height:25vw;
+    border: 0.2em solid black;
+    overflow: auto;
+    justify-content:space-between;
+}
+.text{
+    padding: 5em 5em;
+}
+
+img{
+    padding-right: 2em;
+    padding-top: 2em;
+    width: auto;
+    height: 80%;
+    
+}
+
+p,h1{
+    max-width:20vw
+}
+
